@@ -1,16 +1,12 @@
-- [Home](README.md)
+- Home
+  - [Welcome](README.md)
 
-- Embedded systems
-  - [Overview](embedded/README.md)
+- 3D Printing
 
-- Software engineering
-  - [Overview](software/README.md)
+  - [Overview](3d-printing/README.md)
 
-- Tools
-  - [Overview](tools/README.md)
+  - Printers
+    - [Overview](3d-printing/printers/README.md)
+    - [Snapmaker 2.0](3d-printing/printers/snapmaker-2.0/README.md)
+    - [Snapmaker Artisan](3d-printing/printers/snapmaker-artisan/README.md)
 
-- Experiments
-  - [Overview](experiments/README.md)
- 
-- Projects
-   [Overview](projects/README.md)  
