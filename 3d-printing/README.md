@@ -6,7 +6,7 @@ This section contains my personal notes about 3D printing, including printers, f
 
 The goal is to collect useful information, settings and experiences in one place so they are easy to find later.
 
-## Topics
+## Topics <!-- {docsify-ignore} -->
 
 - Printers
     - Snapmaker 2.0
