@@ -1,4 +1,4 @@
-- [← Home](/)
+- [<- Home](/)
 
 - [DIY Home](./README.md)
   - Tools
