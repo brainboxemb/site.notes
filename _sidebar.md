@@ -1,5 +1,5 @@
 - Home
-  - [Welcome](README.md)
+  - [Welcome](/README.md)
 
 - 3D Printing
   - [Overview](/3d-printing/README.md)
