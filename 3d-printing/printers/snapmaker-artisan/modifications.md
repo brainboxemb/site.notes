@@ -6,7 +6,7 @@ This page contains useful modifications and accessories for the Snapmaker Artisa
 
 ## Top Shelf
 
-!(images/modifications/710922-snapmaker-artisan-top-shelf.webp)
+<img src="./images/modifications/1176751-snapmaker-artisan-enclosure-shelf-brackets.webp">
 
 A convenient top shelf for storing tools and accessories on top of the enclosure.
 
@@ -22,7 +22,7 @@ A convenient top shelf for storing tools and accessories on top of the enclosure
 
 ## Enclosure Shelf Brackets
 
-<img src="images/modifications/1176751-snapmaker-artisan-enclosure-shelf-brackets.webp">
+<img src="./images/modifications/1176751-snapmaker-artisan-enclosure-shelf-brackets.webp">
 
 Shelf brackets for adding additional storage space to the Snapmaker Artisan enclosure.
 
