@@ -1,10 +1,7 @@
-- Home
-  - [Welcome](/README.md)
+- [Home](/README.md)
 
-- 3D Printing
-  - [Overview](/3d-printing/README.md)
-  - Printers
-    - [Snapmaker Artisan](/3d-printing/printers/snapmaker-artisan/README.md)
+- [Software](/software/README.md)
 
-- DIY
-  - [Overview](/diy/README.md)
+- [3D Printing](/3d-printing/README.md)
+
+- [DIY](/diy/README.md)
