@@ -2,5 +2,5 @@
 
 ## Static sites <!-- {docsify-ignore} -->
 
-- [Docsify](/software/docsify/README.md)
+- [Docsify](/software/static-sites/docsify/README.md)
 
