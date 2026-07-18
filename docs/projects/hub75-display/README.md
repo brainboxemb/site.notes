@@ -21,7 +21,7 @@ Aluminum extrusion could be used to create a rigid and modular frame around the 
 
 ## Data
 
-[CAD file of HUB75 module](/../assets/datasheet/adafruit/2277_P5_320x160mm_64x32+pixel.pdf)
+[CAD file of HUB75 module]({{asset_url}}/datasheet/adafruit/2277_P5_320x160mm_64x32+pixel.pdf)
 
 ## Notes
 
