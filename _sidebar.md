@@ -6,4 +6,4 @@
 
 - [Projects](/projects/README.md)
 
-- [Uncategorized](/uncategorized/)
+- [Uncategorized](/uncategorized/README.md)
