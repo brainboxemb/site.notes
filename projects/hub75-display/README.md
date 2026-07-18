@@ -1,0 +1,23 @@
+# HUB75 LED Matrix Display
+
+This project is about building a display using HUB75 LED matrix modules.
+
+The page collects ideas, references and design options for the mechanical construction, electronics and software.
+
+## Ideas
+
+### Aluminum Extrusion Frame
+
+Aluminum extrusion could be used to create a rigid and modular frame around the LED panels.
+
+- [Simple Extruded Aluminum Frame for LED Panels](https://www.instructables.com/Simple-Extruded-Aluminum-Frame-for-LED-Panels/)  
+  A practical example of constructing an LED-panel frame using aluminum extrusion.
+
+- [Useful Build Tips for Making LED Panel Frames](https://hackaday.com/2021/02/23/useful-build-tips-for-making-led-panel-frames/)  
+  Build tips covering panel measurements, magnetic mounting, wiring, DIN rail and mounting the controller and power supply.
+
+![Simple extruded aluminum frame for LED panels](./_images/Simple-Extruded-Aluminum-Frame-for-LED-Panels.webp)
+
+## Notes
+
+-
