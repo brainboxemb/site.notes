@@ -34,7 +34,7 @@
                 function(hook, vm) {
                     hook.beforeEach(function(content) {
                         // Definieer hier centraal het pad naar je asset folder op GitHub
-                        const assetUrl = 'https://githubusercontent.com/brainboxemb/site.notes/assets';
+                        const assetUrl = 'https://raw.githubusercontent.com/brainboxemb/site.notes/main/assets';
                         
                         // Vervang overal {{asset_url}} door de echte URL voordat de pagina laadt
                         return content.replaceAll('{{asset_url}}', assetUrl);
