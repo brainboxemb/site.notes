@@ -4,6 +4,9 @@ This project is about building a display using HUB75 LED matrix modules.
 
 The page collects ideas, references and design options for the mechanical construction, electronics and software.
 
+## Information
+
+https://learn.adafruit.com/rgb-led-matrices-matrix-panels-with-circuitpython/advanced-multiple-panels
 
 ## Ideas
 
@@ -21,7 +24,7 @@ Aluminum extrusion could be used to create a rigid and modular frame around the 
 
 ## Detials
 
-- [Connectors](projects/hub75-display/connectors.md)
+- [Connectors](/projects/hub75-display/connectors)
 - [Wood Suppliers](/projects/hub75-display/wood-suppliers)
 
 ## Data
