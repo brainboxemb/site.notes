@@ -4,4 +4,4 @@
 
 - [DIY](/diy/README.md)
 
-- [Projects](projects/README.md)
+- [Projects](/projects/README.md)
