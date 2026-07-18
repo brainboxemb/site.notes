@@ -1,5 +1,3 @@
-- [Home](/README.md)
-
 - [Software](/software/README.md)
 
 - [3D Printing](/3d-printing/README.md)

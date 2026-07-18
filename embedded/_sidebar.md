@@ -1,6 +1,4 @@
-- [<- Home](/)
-
-- [Embedded Home](/software/README.md)
+- [Embedded](/software/README.md)
   - Testing
     - [USB](/embedded/testing/usb/README.md) 
 
