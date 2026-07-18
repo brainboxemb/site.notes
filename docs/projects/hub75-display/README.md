@@ -25,6 +25,10 @@ Aluminum extrusion could be used to create a rigid and modular frame around the 
 
 ## Notes
 
+## Costs
+
+[Aluminium extrusion cost estimate]({{asset_url}}/costs/estimate/20260718_HUB_display_cost_estimate.pdf)
+
 ## Related Pages
 
 - [Wood Suppliers](/projects/hub75-display/wood-suppliers)
