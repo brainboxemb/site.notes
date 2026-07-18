@@ -4,6 +4,7 @@ This project is about building a display using HUB75 LED matrix modules.
 
 The page collects ideas, references and design options for the mechanical construction, electronics and software.
 
+
 ## Ideas
 
 ### Aluminum Extrusion Frame
@@ -17,6 +18,10 @@ Aluminum extrusion could be used to create a rigid and modular frame around the 
   Build tips covering panel measurements, magnetic mounting, wiring, DIN rail and mounting the controller and power supply.
 
 ![Simple extruded aluminum frame for LED panels](./_images/Simple-Extruded-Aluminum-Frame-for-LED-Panels.webp)
+
+## Data
+
+[CAD file of HUB75 module](/assets/datasheet/adafruit/2277_P5_320x160mm_64x32+pixel.pdf)
 
 ## Notes
 
