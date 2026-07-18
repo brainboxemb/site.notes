@@ -19,11 +19,15 @@ Aluminum extrusion could be used to create a rigid and modular frame around the 
 
 ![Simple extruded aluminum frame for LED panels](./_images/Simple-Extruded-Aluminum-Frame-for-LED-Panels.webp)
 
+## Detials
+
+- [Connectors](projects/hub75-display/connectors.md)
+- [Wood Suppliers](/projects/hub75-display/wood-suppliers)
+
 ## Data
 
 [CAD file of HUB75 module]({{asset_url}}/datasheet/adafruit/2277_P5_320x160mm_64x32+pixel.pdf)
 
-## Notes
 
 ## Costs
 
@@ -31,4 +35,3 @@ Aluminum extrusion could be used to create a rigid and modular frame around the 
 
 ## Related Pages
 
-- [Wood Suppliers](/projects/hub75-display/wood-suppliers)
