@@ -20,4 +20,6 @@ Aluminum extrusion could be used to create a rigid and modular frame around the 
 
 ## Notes
 
--
+## Related Pages
+
+- [Wood Suppliers](/projects/hub75-display/wood-suppliers)
