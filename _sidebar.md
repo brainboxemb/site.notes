@@ -5,3 +5,5 @@
 - [DIY](/diy/README.md)
 
 - [Projects](/projects/README.md)
+
+- [Uncategorized](/uncategorized/)
