@@ -6,6 +6,6 @@ This section contains notes, ideas and research that have not yet been assigned 
 
 - [Router Sled](/uncategorized/diy/router-sled)
 
-## Misc
+## MISC
 
 - [Tmat](/uncategorized/misc/tmat)

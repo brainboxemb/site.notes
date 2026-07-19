@@ -1,5 +1,7 @@
 - [Uncategorized](/uncategorized/)
+
   DIY
   - [Router Sled](/uncategorized/diy/router-sled)
-  MISCH
+
+  MISC
   - [TMAT](/uncategorized/misc/tmat)
