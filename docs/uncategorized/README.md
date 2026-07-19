@@ -2,6 +2,10 @@
 
 This section contains notes, ideas and research that have not yet been assigned to a permanent category.
 
-## Topics
+## DIY
 
-- [Router Sled](/uncategorized/router-sled)
+- [Router Sled](/uncategorized/diy/router-sled)
+
+## Misc
+
+- [Tmat](/uncategorized/misc/tmat)
