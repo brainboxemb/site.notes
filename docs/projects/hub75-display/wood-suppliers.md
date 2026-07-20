@@ -1,5 +1,3 @@
-Ja, dat is overzichtelijker. Dan blijft elke leverancier zijn eigen kopje houden, met daaronder een kleine tabel.
-
 # Okoumé Wood Suppliers
 
 This page contains suppliers of Okoumé plywood for the HUB75 LED matrix display project.
