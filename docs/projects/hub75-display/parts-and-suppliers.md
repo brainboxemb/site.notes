@@ -16,6 +16,8 @@ This page contains possible parts and suppliers for the HUB75 LED matrix display
 - [Fritz-Events — Penn Elcom H1025 recessed corner handle](https://www.fritz-events.nl/penn-elcom-h1025-inbouw-hoekgreep-zwart.html)  
   Black recessed corner handle made from an aluminium handle and a plastic dish. The listed dimensions are 150 × 57.2 × 57.2 mm. :contentReference[oaicite:1]{index=1}
 
+Additional picture: https://www.aweo.de/Penn-Elcom-H1025-Kanteneinbaugriff-schwarz
+
 ## Case Latch
 
 ![KIPP K2475 toggle latch](./_images/kipp-k2475-2420731-latch.jpg)
