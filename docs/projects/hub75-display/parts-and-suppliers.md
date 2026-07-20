@@ -7,7 +7,7 @@ This page contains possible parts and suppliers for the HUB75 LED matrix display
 ![Mean Well DIN rail](./_images/mean-well-ts35-7-5-1000-al.jpg)
 
 - [Conrad — Mean Well TS35/7.5-1000-AL DIN rail](https://www.conrad.nl/nl/p/mean-well-ts35-7-5-1000-al-din-rail-aluminium-1000-mm-1-stuk-s-3557776.html)  
-  Aluminium DIN rail with a length of 1000 mm. Manufacturer part number: `TS35/7.5-1000-AL`. :contentReference[oaicite:0]{index=0}
+  Aluminium DIN rail with a length of 1000 mm. Manufacturer part number: `TS35/7.5-1000-AL`. 
 
 ## Handle
 
@@ -33,7 +33,7 @@ This page contains possible parts and suppliers for the HUB75 LED matrix display
 Possible suppliers for power cable and cable-related components:
 
 - [Cable-Engineer.nl](https://www.cable-engineer.nl/)  
-  Supplier of cable, wire, cable terminals, connectors, crimping tools and related components. :contentReference[oaicite:3]{index=3}
+  Supplier of cable, wire, cable terminals, connectors, crimping tools and related components. 
 
 - [Uw Accuwinkel — Twinflex cable](https://www.uw-accuwinkel.nl/nl/kabel/twinflex-kabel)  
   Possible supplier for twinflex power cable.
