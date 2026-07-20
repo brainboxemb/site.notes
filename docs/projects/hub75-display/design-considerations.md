@@ -12,6 +12,10 @@ In this concept, the enclosure is assembled from the rear.
 
 The display panels, electronics and other internal parts are mounted from the back of the enclosure.
 
+<img src="_images/system_a_assembled.png" alt="Rear assembly concept, view 1">
+
+<img src="_images/system_a_exploded.png" alt="Rear assembly concept, view 2">
+
 <table>
 <tr>
 <td width="50%" valign="top">
