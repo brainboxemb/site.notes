@@ -12,9 +12,9 @@ In this concept, the enclosure is assembled from the rear.
 
 The display panels, electronics and other internal parts are mounted from the back of the enclosure.
 
-<img src="_images/system_a_assembled.png" alt="Rear assembly concept, view 1">
+![Rear assembly concept, view 1"](./_images/system_a_assembled.png)
+![Rear assembly concept, view 2"](./_images/system_a_exploded.png)
 
-<img src="_images/system_a_exploded.png" alt="Rear assembly concept, view 2">
 
 <table>
 <tr>
@@ -36,6 +36,9 @@ The display panels, electronics and other internal parts are mounted from the ba
 In this concept, the top panel of the enclosure acts as a removable lid.
 
 The plexiglass front and possibly a separate frame containing the LED panels can be inserted into the enclosure from the top.
+
+![Rear assembly concept, view 1"](./_images/system_b_assembled.png)
+![Rear assembly concept, view 2"](./_images/system_b_exploded.png)
 
 <table>
 <tr>
