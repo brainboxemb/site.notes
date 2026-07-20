@@ -25,7 +25,8 @@ Aluminum extrusion could be used to create a rigid and modular frame around the 
 ## Detials
 
 ### Design
-- [HUB75 Power Connection](/projects/hub75-display/hub75_power_connections)
+- [Design considerations](/projects/hub75-display/design-considrations)
+- [HUB75 Power Connection](/projects/hub75-display/hub75-power-connections)
 
 ### Parts
 - [Parts and Suppliers](/projects/hub75-display/parts-and-suppliers)
