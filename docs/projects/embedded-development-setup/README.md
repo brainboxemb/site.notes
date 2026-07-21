@@ -12,7 +12,7 @@ The setup will consist of:
 
 ## Components
 
-- [Seeed Studio XIAO ESP32S3](/projects/embedded-development-setup/xiao-esp32s3)
+- [Seeed Studio XIAO ESP32S3](/projects/embedded-development-setup/xiao-esp32s3.md)
 
 ## Notes
 
