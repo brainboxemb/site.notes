@@ -29,8 +29,9 @@ The plexiglass front and possibly a separate frame containing the LED panels can
 
 ## Design Source
 
-Both concepts are based on OpenSCAD models.
-[Open SCAD](projects/hub75-display/_images/src/system-examples.scad)
+Both concepts are based on OpenSCAD models.  
+<a href="projects/hub75-display/_images/src/system-examples.scad" download>Download system-examples.scad</a>
+
 
 ## Notes
 
