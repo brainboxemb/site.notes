@@ -16,20 +16,6 @@ The display panels, electronics and other internal parts are mounted from the ba
 ![Rear assembly concept, view 2"](./_images/system_a_exploded.png)
 
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="_images/system_a_assembled.png" alt="Rear assembly concept, view 1">
-
-</td>
-<td width="50%" valign="top">
-
-<img src="_images/system_a_exploded.png" alt="Rear assembly concept, view 2">
-
-</td>
-</tr>
-</table>
 
 ## 2. Removable Top Cover
 
@@ -40,24 +26,11 @@ The plexiglass front and possibly a separate frame containing the LED panels can
 ![Rear assembly concept, view 1"](./_images/system_b_assembled.png)
 ![Rear assembly concept, view 2"](./_images/system_b_exploded.png)
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<img src="./_images/system_b_assembled.png" alt="Removable top cover concept, view 1">
-
-</td>
-<td width="50%" valign="top">
-
-<img src="./_images/system_b_exploded.png" alt="Removable top cover concept, view 2">
-
-</td>
-</tr>
-</table>
 
 ## Design Source
 
 Both concepts are based on OpenSCAD models.
+[Open SCAD](./_images/src/system-examples.scad)
 
 ## Notes
 
