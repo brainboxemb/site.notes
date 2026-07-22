@@ -1,6 +1,5 @@
 - [Software Home](/software/README.md)
   - Static Sites
     - [Docsify](/software/static-sites/docsify/README.md)
-  - CAD
-    - [OpenSCAD](/software/CAD/openscad/README.md) 
-
+  - [CAD software](/software/CAD/README.md)
+      - [OpenSCAD](/software/CAD/openscad/README.md)
