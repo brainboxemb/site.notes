@@ -6,5 +6,5 @@
 
 ## CAD <!-- {docsify-ignore} -->
 
-- [Docsify](/software/CAD/openscad/README.md)
+- [OpenSCAD](/software/CAD/openscad/README.md)
 
