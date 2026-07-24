@@ -3,3 +3,4 @@
     - [Docsify](/software/static-sites/docsify/README.md)
   - [CAD software](/software/CAD/README.md)
       - [OpenSCAD](/software/CAD/openscad/README.md)
+  - [CNC software](/software/CNC/README.md)
