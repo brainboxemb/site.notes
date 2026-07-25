@@ -21,24 +21,6 @@ Possible applications include:
 - A lid that also functions as a support
 - Limiting the opening angle of an enclosure part
 
-## Hidden Hinge
-
-[MakerWorld — Hidden Hinge](https://makerworld.com/nl/models/252533-hidden-hinge#profileId-268869)
-
-![3D-printed hidden hinge](./_images/hinges/hidden-hinge-w320.webp)
-
-This hinge is intended to be concealed when the connected parts are closed.
-
-A hidden hinge could provide a cleaner exterior because the hinge does not remain visibly mounted on the outside of the enclosure.
-
-Points to consider include:
-
-- Required recesses in the wooden panels
-- Available panel thickness
-- Clearance during opening
-- Strength of the printed parts
-- Access to the mounting screws
-
 ## 180-Degree Strong Hinge
 
 [MakerWorld — 180° Strong Hinge, 36 mm](https://makerworld.com/nl/models/243010-180deg-strong-hinge-36mm#profileId-259247)
@@ -75,30 +57,46 @@ Possible applications include:
 - A lid that folds back against the enclosure
 - A larger hinge connection with accessible mounting points
 
-## Spider Hinge
+## Multi-Link and Spider Hinges
 
-[Osculati — Spider Hinge](https://www.osculati.com/en/11330-38.527.01/spider-hinge#prettyPhoto)
+Multi-link hinges use several pivoting links to control both the rotation and movement path of a lid or panel.
+
+The mechanism can move the panel away from the enclosure while it opens. This may provide additional clearance around an overlapping edge, raised rim or seal.
+
+### Hidden Hinge
+
+[MakerWorld — Hidden Hinge](https://makerworld.com/nl/models/252533-hidden-hinge#profileId-268869)
+
+![3D-printed hidden hinge](./_images/hinges/hidden-hinge-w320.webp)
+
+This is a concealed multi-link hinge.
+
+The mechanism is comparable to a spider hinge because several linked parts move the panel while it opens.
+
+Unlike an externally mounted spider hinge, this design is intended to remain concealed when the connected parts are closed.
+
+Points to consider include:
+
+- Required recesses in the wooden panels
+- Available panel thickness
+- Clearance during opening
+- Strength of the printed parts
+- Access to the mounting screws
+
+### 3D-Printable Spider Hinge
 
 [Cults3D — Spider Hinge](https://cults3d.com/en/3d-model/home/spider-hinge)
 
-![Osculati spider hinge](./_images/hinges/spider-hinge-osculati-w320.webp)
+![3D-printed spider hinge](./_images/hinges/spider-type-hinge-w320.webp)
 
-*Image used as a reference for the original Osculati metal hinge design.*
-
-![3D-printed spider hinge](./_images/hinges/spider-hinge-cults3d-w320.webp)
-
-The Cults3D model is a 3D-printable interpretation of a similar multi-link hinge mechanism.
-
-A spider hinge uses multiple pivoting links to move a lid or panel away from the enclosure while it opens.
-
-This movement can provide additional clearance between the moving panel and the enclosure edge. That may be useful when a seal, raised edge or overlapping panel would interfere with a conventional hinge.
+This model is a 3D-printable interpretation of a spider-hinge mechanism.
 
 Possible applications include:
 
-- A lid that must lift away from the enclosure before rotating
+- A lid that must move away from the enclosure before rotating
 - A rear panel with an overlapping edge
 - Maintaining clearance around a seal
-- A panel that should open without a conventional external hinge
+- A panel that should open almost completely flat
 
 Points to consider include:
 
@@ -108,30 +106,40 @@ Points to consider include:
 - Play between the individual hinge links
 - Whether metal pins or bolts should replace printed hinge pins
 
-## Comparison
+## Real-World Spider Hinge References
 
-| Design | Main Characteristic | Possible Use |
-|---|---|---|
-| Stop hinge | Integrated opening stop | Support panel or limited-angle lid |
-| Hidden hinge | Concealed when closed | Clean exterior finish |
-| 180° strong hinge | Compact 36 mm design | Fold-back lid or panel |
-| 180° gate hinge | Larger external gate-style hinge | Rear panel or folding support |
-| Spider hinge | Multi-link movement with additional clearance | Overlapping lid, sealed panel or pantograph-style opening |
+The following commercial metal hinges are included as references for understanding the movement and construction of spider hinges.
 
-## Considerations
+They are not currently proposed as parts for the display enclosure.
 
-Before selecting a hinge, the following should be checked:
+### Osculati Spider Hinge
 
-- Required opening angle
-- Required movement path
-- Load on the hinge
-- Panel thickness
-- Screw positions
-- Required mounting clearance
-- Available space for the mechanism
-- Print material
-- Print orientation
-- Whether metal hinge pins, bolts or other hardware are required
+[Osculati — Spider Hinge](https://www.osculati.com/en/11330-38.527.01/spider-hinge#prettyPhoto)
+
+![Osculati spider hinge](./_images/hinges/osculati-spider-example-w320.jpg)
+
+The Osculati hinge is included as an example of a metal spider-hinge mechanism.
+
+Its linked construction illustrates how a panel can be moved away from the enclosure while it opens.
+
+### Timage Slim Spider Hinge
+
+[Timage — Slim Spider Hinge with Pin Lock](https://timage.co.uk/marine/slim-spider-hinge-pin-lock.html)
+
+![Timage slim spider hinge with pin lock](./_images/hinges/slim-spider-render-w320.png)
+
+The Timage version illustrates a slim spider-hinge mechanism with a pin lock.
+
+It opens to approximately 178 degrees. The pin lock can hold the hinge in its open position.
+
+The hinge is handed, so left-hand and right-hand versions are used together for a lid or panel.
+
+Interesting characteristics include:
+
+- A slim multi-link mechanism
+- An almost flat opening angle
+- A lock that prevents the opened hinge from closing
+- A movement path that lifts the panel away from the enclosure
 
 ## Notes
 
