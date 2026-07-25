@@ -1,6 +1,8 @@
-- [Software Home](/software/README.md)
+- [Software Home](/software/)
   - Static Sites
-    - [Docsify](/software/static-sites/docsify/README.md)
-  - [CAD software](/software/CAD/README.md)
-      - [OpenSCAD](/software/CAD/openscad/README.md)
-  - [CNC software](/software/CNC/README.md)
+    - [Docsify](/software/static-sites/docsify/)
+  - [CAD software](/software/CAD/)
+      - [OpenSCAD](/software/CAD/openscad/)
+  - [CNC software](/software/CNC/)
+  - GIT
+    - [GitHub](/software/git/github/)

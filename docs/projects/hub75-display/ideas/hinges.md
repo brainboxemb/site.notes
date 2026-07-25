@@ -83,6 +83,44 @@ Points to consider include:
 - Strength of the printed parts
 - Access to the mounting screws
 
+### Print-in-Place Concealed Hinge
+
+[MakerWorld — Print-in-Place Concealed Hinge](https://makerworld.com/nl/models/195411-print-in-place-concealed-hinge-fidget-toy#profileId-215987)
+
+![Print-in-place concealed hinge](./_images/hinges/pip-concealed-hinge-w320.webp)
+
+This model demonstrates a concealed multi-link hinge that is printed as a complete moving assembly.
+
+Although it is presented as a fidget toy, its mechanism may be useful as a reference for:
+
+- Concealed multi-link movement
+- Print-in-place clearances
+- The movement path of the connected parts
+- Adapting the principle to a larger functional hinge
+
+### PIP Hinge for Interior Doors
+
+[MakerWorld — PIP Hinge for Interior Doors](https://makerworld.com/nl/models/1347449-pip-hinge-for-interior-doors#profileId-1389414)
+
+![Print-in-place hinge for interior doors](./_images/hinges/pip-interior-door-hinge-w320.webp)
+
+This model is a remix of the print-in-place concealed hinge shown above.
+
+It uses the same general multi-link principle but adapts the mechanism for lightweight interior doors or panels.
+
+The model is useful as an example of how the original concealed-hinge concept can be developed into a more functional design.
+
+Points to consider include:
+
+- Print-in-place clearances
+- Required panel recesses
+- Load on the linked parts
+- Print orientation
+- Layer direction around the pivots
+- Durability during repeated opening and closing
+
+MakerWorld shows the relationship on the remix model page. The original model page does not provide a clear overview of all remixes based on it.
+
 ### 3D-Printable Spider Hinge
 
 [Cults3D — Spider Hinge](https://cults3d.com/en/3d-model/home/spider-hinge)
@@ -108,7 +146,7 @@ Points to consider include:
 
 ## Real-World Spider Hinge References
 
-The following commercial metal hinges are included as references for understanding the movement and construction of spider hinges.
+The following commercial metal hinges are included only as references for understanding the movement and construction of spider hinges.
 
 They are not currently proposed as parts for the display enclosure.
 
