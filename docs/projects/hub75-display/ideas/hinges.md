@@ -25,7 +25,7 @@ Possible applications include:
 
 [MakerWorld — Hidden Hinge](https://makerworld.com/nl/models/252533-hidden-hinge#profileId-268869)
 
-![3D-printed hidden hinge]../_images/hinges/hidden-hinge-w320.webp)
+![3D-printed hidden hinge](./_images/hinges/hidden-hinge-w320.webp)
 
 This hinge is intended to be concealed when the connected parts are closed.
 
@@ -43,7 +43,7 @@ Points to consider include:
 
 [MakerWorld — 180° Strong Hinge, 36 mm](https://makerworld.com/nl/models/243010-180deg-strong-hinge-36mm#profileId-259247)
 
-![3D-printed 180-degree strong hinge](./_images/hinges/strong-hinge-180deg-w320.webp')
+![3D-printed 180-degree strong hinge](./_images/hinges/strong-hinge-180deg-w320.webp)
 
 This design is presented as a strong hinge with an opening range of up to 180 degrees.
 
