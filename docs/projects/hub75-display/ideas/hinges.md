@@ -75,6 +75,39 @@ Possible applications include:
 - A lid that folds back against the enclosure
 - A larger hinge connection with accessible mounting points
 
+## Spider Hinge
+
+[Osculati — Spider Hinge](https://www.osculati.com/en/11330-38.527.01/spider-hinge#prettyPhoto)
+
+[Cults3D — Spider Hinge](https://cults3d.com/en/3d-model/home/spider-hinge)
+
+![Osculati spider hinge](./_images/hinges/spider-hinge-osculati-w320.webp)
+
+*Image used as a reference for the original Osculati metal hinge design.*
+
+![3D-printed spider hinge](./_images/hinges/spider-hinge-cults3d-w320.webp)
+
+The Cults3D model is a 3D-printable interpretation of a similar multi-link hinge mechanism.
+
+A spider hinge uses multiple pivoting links to move a lid or panel away from the enclosure while it opens.
+
+This movement can provide additional clearance between the moving panel and the enclosure edge. That may be useful when a seal, raised edge or overlapping panel would interfere with a conventional hinge.
+
+Possible applications include:
+
+- A lid that must lift away from the enclosure before rotating
+- A rear panel with an overlapping edge
+- Maintaining clearance around a seal
+- A panel that should open without a conventional external hinge
+
+Points to consider include:
+
+- The required movement path
+- Space needed for the linkage
+- Load on the pivots
+- Play between the individual hinge links
+- Whether metal pins or bolts should replace printed hinge pins
+
 ## Comparison
 
 | Design | Main Characteristic | Possible Use |
@@ -83,19 +116,22 @@ Possible applications include:
 | Hidden hinge | Concealed when closed | Clean exterior finish |
 | 180° strong hinge | Compact 36 mm design | Fold-back lid or panel |
 | 180° gate hinge | Larger external gate-style hinge | Rear panel or folding support |
+| Spider hinge | Multi-link movement with additional clearance | Overlapping lid, sealed panel or pantograph-style opening |
 
 ## Considerations
 
 Before selecting a hinge, the following should be checked:
 
 - Required opening angle
+- Required movement path
 - Load on the hinge
 - Panel thickness
 - Screw positions
 - Required mounting clearance
+- Available space for the mechanism
 - Print material
 - Print orientation
-- Whether a metal hinge pin or additional hardware is required
+- Whether metal hinge pins, bolts or other hardware are required
 
 ## Notes
 
