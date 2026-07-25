@@ -2,18 +2,18 @@
 
 This page describes the repository structure used to keep a large number of GitHub projects organised.
 
-The structure deliberately uses small project steps, explicit repository names and repeated visual checks.
+The structure deliberately uses separate project and subproject numbers, explicit repository names and repeated visual checks.
 
 ## Goals
 
 The naming strategy should make it possible to:
 
 - Recognise the type of a repository
-- Keep experiments separated into small steps
-- Connect related software and mechanical repositories
-- Sort repositories chronologically
+- Group related repositories under one main project
+- Give each subproject its own repository and purpose
+- Sort projects chronologically
 - Recognise private repositories directly from their names
-- Preserve important snapshots without creating extra folders
+- Preserve small development steps in a clear and comparable way
 - Store data and documents with version history and recovery options
 
 ## Repository Naming
@@ -21,7 +21,7 @@ The naming strategy should make it possible to:
 ### Structure
 
 ```text
-<prefix>.<year>-<project-number>-<iteration>-<description>.<classification>
+<prefix>.<year>-<project-number>-<subproject-number>-<description>.<classification>
 ```
 
 ### Prefixes
@@ -49,39 +49,54 @@ Renaming the repository later is acceptable when its visibility or purpose chang
 
 ```text
 mech.2026-001-01-display-casing.PRV
-code.2026-001-01-display-controller.PRV
+code.2026-001-02-display-controller.PRV
 site.2026-002-01-portfolio-web.PRV
-arch.2026-003-01-display-reference-data.PRV
+arch.2026-001-03-display-reference-data.PRV
 ```
 
-Repositories that belong to the same overall project can share the same year and project number:
+## Projects and Subprojects
+
+The numeric part of the repository name consists of:
+
+```text
+<year>-<project-number>-<subproject-number>
+```
+
+| Part | Purpose |
+|---|---|
+| `year` | The year in which the main project was started |
+| `project-number` | The sequence of the main project within that year |
+| `subproject-number` | A separate repository that belongs to the main project |
+
+Each subproject has its own repository name and a clearly defined purpose.
+
+For example:
 
 ```text
 mech.2026-001-01-display-casing.PRV
-code.2026-001-01-display-controller.PRV
+code.2026-001-02-display-controller.PRV
+arch.2026-001-03-display-reference-data.PRV
 ```
 
-## Small Iteration Steps
-
-The iteration number represents a deliberately separated experiment or development step.
+These repositories all belong to project `2026-001`:
 
 ```text
-site.2026-002-01-hugo-first-build.PRV
-site.2026-002-02-hugo-content-structure.PRV
-site.2026-002-03-github-pages-deployment.PRV
+2026-001 = HUB75 display project
 ```
 
-Creating separate iterations helps to:
+The final number identifies the individual subproject:
 
-- Keep each experiment limited in scope
-- Preserve a working result before starting the next step
-- Reduce the amount of unrelated history inside one repository
-- Make it easier to return to an earlier approach
-- Keep the repository list understandable without first reading commit history
+```text
+01 = mechanical display casing
+02 = display controller software
+03 = reference data and documentation
+```
 
-A new iteration is not required for every small edit.
+The repository prefix may differ between subprojects because each repository can have a different type.
 
-It is used when the next step should remain independently understandable or reusable.
+The subproject number does not represent a development iteration or version.
+
+Development steps within a repository are recorded using Git commits and daily snapshot tags.
 
 ## Archive Repositories
 
@@ -96,12 +111,12 @@ This may include:
 - Research material
 - Configuration backups
 - Files that should be protected against accidental deletion
-- Material that does not belong to an active software, website or mechanical repository
+- Material that does not belong to a software, website or mechanical repository
 
 Example:
 
 ```text
-arch.2026-003-01-display-reference-data.PRV
+arch.2026-001-03-display-reference-data.PRV
 ```
 
 The use of Git provides an additional recovery layer compared with ordinary cloud-storage folders.
@@ -112,11 +127,11 @@ An archive repository is not necessarily inactive.
 
 The `arch` prefix describes the purpose of the repository, not its current status.
 
-## Git Tags and Snapshots
+## Daily Development Steps
 
-Git tags can preserve specific states inside an iteration.
+Daily tags are used to keep small development steps recognisable, ordered and easy to compare.
 
-### Daily Snapshot Format
+### Tag Format
 
 ```text
 daily/20260101
@@ -124,15 +139,37 @@ daily/20260101-01
 daily/20260101-02
 ```
 
-The first tag identifies the first preserved state of the day.
+The date identifies the working day.
 
-Additional sequence numbers are used when multiple meaningful snapshots are created on the same day.
+The first preserved state of the day uses only the date:
 
-Daily snapshots provide small, recognisable restore points without requiring another repository.
+```text
+daily/20260101
+```
 
-### Milestone Tags
+When multiple meaningful states are preserved on the same day, a sequence number is added:
 
-Descriptive milestone tags can also be used:
+```text
+daily/20260101-01
+daily/20260101-02
+```
+
+These tags make it possible to:
+
+- Preserve small development steps
+- Compare consecutive states
+- Return to an earlier working state
+- Keep experiments understandable
+- Avoid losing overview in a long commit history
+- Continue experimenting without overwriting a recognisable result
+
+The daily tags provide the small-step structure inside each subproject repository.
+
+## Milestone Tags
+
+Descriptive milestone tags can be used in addition to daily tags.
+
+Examples:
 
 ```text
 milestone/first-working-build
@@ -140,10 +177,12 @@ milestone/mechanical-prototype
 milestone/field-test
 ```
 
-The two systems can be used together:
+The two tag types have different purposes:
 
-- Daily tags for chronological snapshots
-- Milestone tags for recognisable project states
+- Daily tags preserve chronological development steps
+- Milestone tags identify recognisable project states
+
+A commit may therefore have both a daily tag and a milestone tag.
 
 ## GitHub Topics
 
@@ -180,7 +219,7 @@ The `archived` topic is a status and is separate from the `arch` repository pref
 For example, an actively maintained archive repository could be:
 
 ```text
-arch.2026-003-01-display-reference-data.PRV
+arch.2026-001-03-display-reference-data.PRV
 ```
 
 with topics such as:
@@ -209,12 +248,16 @@ topic:mechanical topic:openscad
 Each part of the system has a separate purpose:
 
 ```text
-repository name = identity, sequence and visibility check
-prefix          = repository type
-iteration       = separated experiment or development step
-GitHub Topics   = filtering, technology and status
-Git tags        = snapshots and milestones
-GitHub setting  = actual public or private visibility
+repository name   = identity, project relation and visibility check
+prefix            = repository type
+year              = year in which the main project started
+project number    = sequence of the main project within that year
+subproject number = separate repository within the main project
+description       = specific purpose of the subproject
+classification    = additional visual visibility check
+GitHub Topics     = filtering, technology and status
+Git tags          = small development steps, snapshots and milestones
+GitHub setting    = actual public or private visibility
 ```
 
 The repeated information is intentional where it provides an additional visual check or reduces the need to remember hidden context.
@@ -222,26 +265,28 @@ The repeated information is intentional where it provides an additional visual c
 ## Initial Convention
 
 ```text
-<prefix>.<year>-<project-number>-<iteration>-<description>.PRV
+<prefix>.<year>-<project-number>-<subproject-number>-<description>.PRV
 ```
 
-Example:
+Example main project with multiple subprojects:
 
 ```text
 mech.2026-001-01-display-casing.PRV
+code.2026-001-02-display-controller.PRV
+arch.2026-001-03-display-reference-data.PRV
 ```
 
-Archive example:
-
-```text
-arch.2026-003-01-display-reference-data.PRV
-```
-
-Snapshot examples:
+Daily snapshot examples:
 
 ```text
 daily/20260101
 daily/20260101-01
+daily/20260101-02
+```
+
+Milestone example:
+
+```text
 milestone/first-working-build
 ```
 
