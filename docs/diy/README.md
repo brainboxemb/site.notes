@@ -8,4 +8,4 @@
 ## Workshop <!-- {docsify-ignore} -->
 
 - [French cleats](/diy/workshop/french-cleats/README.md)
-
+- [Workbenches](/diy/workshop/workbenches/)
