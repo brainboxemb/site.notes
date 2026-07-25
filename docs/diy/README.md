@@ -9,3 +9,7 @@
 
 - [French cleats](/diy/workshop/french-cleats/README.md)
 - [Workbenches](/diy/workshop/workbenches/)
+
+## Projects  <!-- {docsify-ignore} -->
+
+- [Projects](/diy/projects/)
