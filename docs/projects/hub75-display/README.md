@@ -13,8 +13,8 @@ https://learn.adafruit.com/rgb-led-matrices-matrix-panels-with-circuitpython/adv
 ### Aluminum Extrusion Frame
 
 
-
-- [Hinges](hinge-ideas.md)
+- [Aluminum Extrusion Frame](/ideas/aluminium-extrusion-frame.md)
+- [Hinges](/ideas/hinge-ideas.md)
 
 ## Details
 
