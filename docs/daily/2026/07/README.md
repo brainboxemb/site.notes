@@ -10,7 +10,8 @@ A [Woodworking.nl discussion](https://www.woodworking.nl/threads/multiboard-fren
 
 The discussion is partly based on the following YouTube video:
 
-![MultiBoard workshop storage video](./_images/20260726-youtube-multiboard-w320.jpg)
+[![MultiBoard workshop storage video](./26/_images/20260726-youtube-multiboard-w320.jpg)](https://www.youtube.com/watch?v=zgMPVfaCOPs)
+
 
 MultiBoard and openGrid are separate modular mounting systems. Underware is a cable-management concept with system-specific implementations for both platforms.
 
