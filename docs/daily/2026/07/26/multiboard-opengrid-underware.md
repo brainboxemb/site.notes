@@ -1,8 +1,8 @@
 # MultiBoard, openGrid and Underware
 
-**Date:** 2026-07-26
+> This page was created with the assistance of ChatGPT. Information and links should be verified.
 
-> This page was created with the assistance of ChatGPT. Information and links should be verified when they are used for a project, printing decision or purchase.
+**Date:** 2026-07-26
 
 [![openGrid versus MultiBoard comparison](./_images/reddit-opengrid-vs-multiboard-w320.webp)](https://www.reddit.com/r/Multiboard/comments/1mivpcg/opengrid_vs_multiboard_the_battle_for_the_future/)
 

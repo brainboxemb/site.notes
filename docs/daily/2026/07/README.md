@@ -1,10 +1,11 @@
 # 2026-07
 
+> This page was created with the assistance of ChatGPT. Information and links should be verified.
+
 ## 2026-07-26
 
 ### MultiBoard, openGrid and Underware
 
-> This note was created with the assistance of ChatGPT. Information should be verified before making design, printing or purchasing decisions.
 
 A [Woodworking.nl discussion](https://www.woodworking.nl/threads/multiboard-french-cleats-alternatief.45826/) discusses MultiBoard and Underware as a 3D-printed alternative to conventional pegboard or French-cleat storage.
 
@@ -20,8 +21,6 @@ MultiBoard and openGrid are separate modular mounting systems. Underware is a ca
 
 ### CNC Mill Build
 
-> This note was created with the assistance of ChatGPT.
-
 This YouTube video documents the construction of a CNC milling machine:
 
 [![CNC mill build](./_images/20260726-youtube-cnc-mill-build-w320.jpg)](https://www.youtube.com/watch?v=wFpyW5FwmGk&t=239s)
@@ -29,8 +28,6 @@ This YouTube video documents the construction of a CNC milling machine:
 The build may provide useful ideas for CNC-machine construction, mechanical layout and component selection.
 
 ### 3D-Printed Router Lift
-
-> This note was created with the assistance of ChatGPT.
 
 This YouTube video shows a 3D-printed router lift:
 
@@ -40,8 +37,6 @@ The design may be useful as a reference for combining 3D-printed parts with a ro
 
 
 ### Docsify Documentation Portal Publisher Guide
-
-> This note was created with the assistance of ChatGPT.
 
 The [Documentation Portal Publisher Guide](https://docs.developer.tech.gov.sg/docs/documentation-portal-publisher-guide/?product=Singapore+Government+Developer+Portal) from the Singapore Government Developer Portal is a useful practical reference for building and publishing documentation with Docsify.
 
