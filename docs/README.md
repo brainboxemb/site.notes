@@ -8,6 +8,9 @@ development tools and small experiments.
 The notes are stored as Markdown files and published using Docsify.
 
 
+- [About This Notebook](/notebook)
+- [ChatGPT Context](/chatgpt-context)
+
 ## Handy links
 
 https://youtube-thumbnail-grabber.com/

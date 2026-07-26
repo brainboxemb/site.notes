@@ -1,9 +1,11 @@
-- [Software](/software/README.md)
+- [Daily](/daily/)
 
-- [3D Printing](/3d-printing/README.md)
+- [Software](/software/)
 
-- [DIY](/diy/README.md)
+- [3D Printing](/3d-printing/)
 
-- [Projects](/projects/README.md)
+- [DIY](/diy/)
 
-- [Uncategorized](/uncategorized/README.md)
+- [Projects](/projects/)
+
+- [Uncategorized](/uncategorized/)
