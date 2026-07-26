@@ -37,3 +37,21 @@ This YouTube video shows a 3D-printed router lift:
 [![3D-printed router lift](./_images/20260726-youtube-3d-printed-router-lift-w320.jpg)](https://www.youtube.com/watch?v=dJLjQ146v2A)
 
 The design may be useful as a reference for combining 3D-printed parts with a router-table height-adjustment mechanism.
+
+
+### Docsify Documentation Portal Publisher Guide
+
+> This note was created with the assistance of ChatGPT.
+
+The [Documentation Portal Publisher Guide](https://docs.developer.tech.gov.sg/docs/documentation-portal-publisher-guide/?product=Singapore+Government+Developer+Portal) from the Singapore Government Developer Portal is a useful practical reference for building and publishing documentation with Docsify.
+
+The guide includes information about:
+
+- Docsify setup and configuration
+- Markdown syntax
+- Mermaid diagrams
+- Accordion content
+- Sidebar configuration and plugins
+- Examples of other websites using Docsify
+
+It may be useful both as a Docsify reference and as a source of ideas for improving the structure and navigation of this notebook.
