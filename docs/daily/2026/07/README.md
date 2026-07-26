@@ -18,4 +18,22 @@ MultiBoard and openGrid are separate modular mounting systems. Underware is a ca
 - [MultiBoard, openGrid and Underware](./26/multiboard-opengrid-underware)
 
 
+### CNC Mill Build
 
+> This note was created with the assistance of ChatGPT.
+
+This YouTube video documents the construction of a CNC milling machine:
+
+[![CNC mill build](./_images/20260726-youtube-cnc-mill-build-w320.jpg)](https://www.youtube.com/watch?v=wFpyW5FwmGk&t=239s)
+
+The build may provide useful ideas for CNC-machine construction, mechanical layout and component selection.
+
+### 3D-Printed Router Lift
+
+> This note was created with the assistance of ChatGPT.
+
+This YouTube video shows a 3D-printed router lift:
+
+[![3D-printed router lift](./_images/20260726-youtube-3d-printed-router-lift-w320.jpg)](https://www.youtube.com/watch?v=dJLjQ146v2A)
+
+The design may be useful as a reference for combining 3D-printed parts with a router-table height-adjustment mechanism.
