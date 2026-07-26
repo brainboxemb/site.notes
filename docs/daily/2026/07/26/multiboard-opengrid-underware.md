@@ -10,7 +10,7 @@ A discussion on [Woodworking.nl](https://www.woodworking.nl/threads/multiboard-f
 
 The discussion is partly based on this YouTube video:
 
-[![MultiBoard workshop storage video](./_images/20260726-youtube-multiboard-w320.jpg)](https://www.youtube.com/watch?v=zgMPVfaCOPs)
+[![MultiBoard workshop storage video](./../_images/20260726-youtube-multiboard-w320.jpg)](https://www.youtube.com/watch?v=zgMPVfaCOPs)
 
 ## Relationship
 
