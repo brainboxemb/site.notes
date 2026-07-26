@@ -153,32 +153,129 @@ aluminium and frame material
 └── Alu-Spezi
 ```
 
-### FreeMilli 3.0 Open-Source CNC
+### FreeMilli 3.0 Open CNC Design
 
-FreeMilli is an open-source CNC-router design based on aluminium profiles, linear rails and ball screws.
+[FreeMilli](https://freemilli.de/) is an open CNC-router design based on aluminium profiles, linear rails, ball screws and machined plates.
 
-- [FreeMilli](https://freemilli.de/)
-- [FreeMilli model and files on GrabCAD](https://grabcad.com/library/free-milli-by-meister-woodworker-1250x650mm-milling-machine-1)
-- [CNC-aus-Holz — Isernbitter CNC FreeMilli build thread](https://www.cnc-aus-holz.at/index.php?thread/3508-isernbitter-cnc-freemilli/)
+The project appears to be sufficiently defined for several suppliers to offer matching component sets. However, detailed independent build reports, troubleshooting discussions and long-term user experiences appear to be relatively limited or fragmented.
 
-The design uses standard components such as:
+The available information is concentrated mainly around:
+
+- CAD and parts information
+- Bills of materials
+- Supplier product pages
+- Individual build reports
+- Component sets based on the published design
+
+This gives the project the following character:
 
 ```text
-aluminium construction profiles
-HG20 linear rails
-ball screws
-machined aluminium plates
+open CNC design
++ defined dimensions and parts
++ commercially available component sets
+- limited easily discoverable independent documentation
 ```
 
-The available files include a STEP model and a parts list. The design can be adapted to different travel dimensions.
+Several related names and versions are used:
 
-The German build thread provides practical information about:
+```text
+FreeMilli 2.0 Standard
+FreeMilli 3.0 XL
+FreeMilli XL
+```
 
-- Profile and rail selection
-- Ball-screw configuration
-- Open-loop and closed-loop stepper motors
-- Spindle choices
-- Spoil boards and clamping surfaces
-- Sources for machined aluminium parts and CNC components
+Compatibility should therefore always be checked against the exact version before ordering parts.
 
-Some suppliers appear to provide components or prepared parts specifically suitable for FreeMilli builds, although the exact FreeMilli 3.0 compatibility should be checked before ordering.
+## Available Component Sets
+
+### DOLD Mechatronik
+
+[DOLD Mechatronik](https://www.dold-mechatronik.de/) offers dedicated FreeMilli aluminium-profile sets.
+
+- [FreeMilli aluminium profile set — heavy](https://www.dold-mechatronik.de/FreeMilli-aluminum-profile-set-heavy)
+- [FreeMilli aluminium profile set — lightweight](https://www.dold-mechatronik.de/FreeMilli-aluminum-profile-set-lightweight)
+
+The heavy set includes the main aluminium profiles for the frame together with matching brackets, screws, slot nuts and cover caps.
+
+The listed profiles include:
+
+```text
+2 × 90 × 90 mm profiles, 1500 mm
+4 × 45 × 90 mm profiles, 620 mm
+1 × 80 × 120 mm profile, 860 mm
+1 × 30 × 120 mm profile, 860 mm
+```
+
+DOLD therefore appears to focus mainly on the machine frame and its profile hardware. :contentReference[oaicite:0]{index=0}
+
+### Kamp & Kötter
+
+[Kamp & Kötter](https://www.kampundkoetter.de/maschinen-bausatze/free-milli-by-meisterwoodworker.html) offers linear-motion sets for FreeMilli variants.
+
+- [FreeMilli XL linear-motion set](https://www.kampundkoetter.de/freemilli-v1.html)
+- [FreeMilli linear-motion set](https://www.kampundkoetter.de/freemilli-v1-1.html)
+
+The FreeMilli XL set is based on the published linear-motion bill of materials and includes components associated with the ball screws, bearings and drive arrangement.
+
+Kamp & Kötter therefore appears to focus mainly on:
+
+```text
+linear guides
+ball screws
+bearings
+axis-drive components
+```
+
+The exact set and bill-of-material revision should be checked before ordering. :contentReference[oaicite:1]{index=1}
+
+### Sorotec
+
+[Sorotec](https://www.sorotec.de/shop/Community-Projects/Meister-Woodworker--FreeMilli/?language=en) has a dedicated FreeMilli section covering both:
+
+```text
+FreeMilli 2.0 Standard 1250 × 650
+FreeMilli 3.0 XL       1250 × 850
+```
+
+Available product categories include:
+
+- HGR20 linear-rail sets
+- Ball-screw and bearing sets
+- Axis-specific spindle-drive sets
+- Stepper-motor sets
+- Controls
+- Additional accessories
+
+Sorotec appears to offer the broadest range of separately selectable FreeMilli components rather than one complete machine kit. :contentReference[oaicite:2]{index=2}
+
+## Supplier Overview
+
+```text
+DOLD Mechatronik
+└── aluminium profiles and frame hardware
+
+Kamp & Kötter
+└── linear-motion and ball-screw sets
+
+Sorotec
+└── rails, spindle drives, motors, controls and accessories
+```
+
+The presence of these supplier sets does not necessarily mean that FreeMilli has a large active user community.
+
+A supplier can assemble matching parts from the published dimensions and bill of materials even when relatively few complete build reports are publicly available.
+
+## Summary
+
+FreeMilli appears to be a relatively well-defined open CNC design with downloadable design information and commercially available component sets.
+
+Its strongest point is the availability of matching parts from multiple established suppliers.
+
+Its main uncertainty is the comparatively limited amount of easily discoverable independent documentation, practical comparison material and long-term build experience.
+
+Useful starting points:
+
+- [FreeMilli](https://freemilli.de/)
+- [DOLD Mechatronik — FreeMilli profile sets](https://www.dold-mechatronik.de/?k=6795)
+- [Kamp & Kötter — FreeMilli](https://www.kampundkoetter.de/maschinen-bausatze/free-milli-by-meisterwoodworker.html)
+- [Sorotec — Meister Woodworker FreeMilli](https://www.sorotec.de/shop/Community-Projects/Meister-Woodworker--FreeMilli/?language=en)
