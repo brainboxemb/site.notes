@@ -16,4 +16,4 @@ The entries are grouped by month and ordered by date.
 
 ## 2026
 
-- [2026-07](/daily/2026/2026/07)
+- [2026-07](/daily/2026/07)
