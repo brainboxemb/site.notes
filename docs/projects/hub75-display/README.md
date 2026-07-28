@@ -20,8 +20,8 @@ https://learn.adafruit.com/rgb-led-matrices-matrix-panels-with-circuitpython/adv
 
 ### Design
 
-- [Design Considerations](/projects/hub75-display/design-considerations-wooden-enclosure)
-- [Design Considerations](/projects/hub75-display/design-considerations-aluminium-frame)
+- [Design Considerations Wooden Enclosure](/projects/hub75-display/design-considerations-wooden-enclosure)
+- [Design Considerations Aluminum Frame](/projects/hub75-display/design-considerations-aluminium-frame)
 - [HUB75 Power Connection](/projects/hub75-display/hub75-power-connections)
 - [Finishing](/projects/hub75-display/finishing)
 - [Woodworking Videos](/projects/hub75-display/woodworking-videos)
