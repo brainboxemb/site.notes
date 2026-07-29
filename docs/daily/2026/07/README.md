@@ -2,6 +2,82 @@
 
 > This page was created with the assistance of ChatGPT. Information and links should be verified.
 
+
+## 2026-07-28
+
+### 6-in-1 Universal Trim Router Jig
+
+Jig by **Tamar Hannah / 3x3 Custom**.
+
+A multifunctional base and jig for a trim router. It can be used for freehand routing, flush trimming, trimming edge banding, cutting grooves and mortises, and routing circles.
+
+<!--
+Image placeholder:
+./_images/2026-07-28-3x3-custom-universal-trim-router-jig.jpg
+-->
+
+[![6-in-1 Universal Trim Router Jig](./_images/20260728-3x3-custom-universal-trim-router-jig.webp ':size=480')](https://www.3x3custom.com/store/6-in-1-universal-trim-router-jig)
+
+- [Demonstration video on Facebook](https://www.facebook.com/share/r/1BzxER4kpn/)
+- [Product page at 3x3 Custom](https://www.3x3custom.com/store/6-in-1-universal-trim-router-jig)
+- [Build tutorial at 3x3 Custom](https://www.3x3custom.com/tutorials/ultimate-trim-router-jig)
+
+
+### Don't Make These 10 Table Saw Mistakes
+
+Video by **Thomas Custom Woodworks**.
+
+Ten common mistakes when using a table saw, with a focus on safer and more controlled operation.
+
+<!--
+Image placeholder:
+./_images/2026-07-28-youtube-thomas-custom-woodworks-table-saw-mistakes-bunX11a5OCk.jpg
+-->
+
+[![Don't Make These 10 Table Saw Mistakes](./_images/20260729-youtube-thomas-custom-woodworks-table-saw-mistakes-bunX11a5OCk-w320.jpg ':size=480')](https://www.youtube.com/watch?v=bunX11a5OCk)
+
+- [Watch on YouTube](https://www.youtube.com/watch?v=bunX11a5OCk)
+
+
+## 2026-07-29
+
+### Miter Saw Small Parts Jig
+
+Article and video by **Shara / Woodshop Diaries**.
+
+A plywood jig that provides support underneath and behind small workpieces. T-tracks and clamps are used to secure the workpiece without placing your hands close to the saw blade.
+
+<!--
+Image placeholder:
+./_images/2026-07-29-woodshop-diaries-miter-saw-small-parts-jig.jpg
+-->
+
+[![Miter Saw Small Parts Jig](./_images/20260729-woodshop-diaries-miter-saw-small-parts-jig-w320.jpg)](https://www.woodshopdiaries.com/diy-miter-saw-small-parts-jig/)
+
+- [Build instructions at Woodshop Diaries](https://www.woodshopdiaries.com/diy-miter-saw-small-parts-jig/)
+
+
+### Miter Saw Jig
+
+Video by **[Facebook page or creator name]**.
+
+A second example of a jig for supporting and cutting small workpieces on a miter saw.
+
+<!--
+Image placeholder:
+./_images/2026-07-29-facebook-miter-saw-jig-1007222492311688.jpg
+-->
+
+[![Miter Saw Jig](./_images/20260729-facebook-miter-saw-jig-1007222492311688-w320.jpg)](https://www.facebook.com/watch/?ref=saved&v=1007222492311688)
+
+- [Watch on Facebook](https://www.facebook.com/watch/?ref=saved&v=1007222492311688)
+
+
+> **Working direction:** For a right-handed setup, it can be practical to keep the long stock on the left, operate the saw with the right hand, and advance the stock from left to right between cuts. The cut-to-length piece then ends up on the right.
+>
+> This is a workflow preference rather than a general rule. When the retained piece is small and sits on the right, it should be supported and secured with a jig or clamp. Do not reach across the blade with the left hand. Only reposition the material after the blade has completely stopped.
+
+
 ## 2026-07-26
 
 ### MultiBoard, openGrid and Underware
