@@ -8,4 +8,6 @@
 
 - [Projects](/projects/)
 
+- [Experiments](/experiments/)
+
 - [Uncategorized](/uncategorized/)
