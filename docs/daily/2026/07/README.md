@@ -3,40 +3,6 @@
 > This page was created with the assistance of ChatGPT. Information and links should be verified.
 
 
-## 2026-07-28
-
-### 6-in-1 Universal Trim Router Jig
-
-Jig by **Tamar Hannah / 3x3 Custom**.
-
-A multifunctional base and jig for a trim router. It can be used for freehand routing, flush trimming, trimming edge banding, cutting grooves and mortises, and routing circles.
-
-<!--
-Image placeholder:
-./_images/2026-07-28-3x3-custom-universal-trim-router-jig.jpg
--->
-
-[![6-in-1 Universal Trim Router Jig](./_images/20260728-3x3-custom-universal-trim-router-jig.webp ':size=480')](https://www.3x3custom.com/store/6-in-1-universal-trim-router-jig)
-
-- [Demonstration video on Facebook](https://www.facebook.com/share/r/1BzxER4kpn/)
-- [Product page at 3x3 Custom](https://www.3x3custom.com/store/6-in-1-universal-trim-router-jig)
-- [Build tutorial at 3x3 Custom](https://www.3x3custom.com/tutorials/ultimate-trim-router-jig)
-
-
-### Don't Make These 10 Table Saw Mistakes
-
-Video by **Thomas Custom Woodworks**.
-
-Ten common mistakes when using a table saw, with a focus on safer and more controlled operation.
-
-<!--
-Image placeholder:
-./_images/2026-07-28-youtube-thomas-custom-woodworks-table-saw-mistakes-bunX11a5OCk.jpg
--->
-
-[![Don't Make These 10 Table Saw Mistakes](./_images/20260729-youtube-thomas-custom-woodworks-table-saw-mistakes-bunX11a5OCk-w320.jpg ':size=480')](https://www.youtube.com/watch?v=bunX11a5OCk)
-
-- [Watch on YouTube](https://www.youtube.com/watch?v=bunX11a5OCk)
 
 
 ## 2026-07-29
@@ -76,6 +42,41 @@ Image placeholder:
 > **Working direction:** For a right-handed setup, it can be practical to keep the long stock on the left, operate the saw with the right hand, and advance the stock from left to right between cuts. The cut-to-length piece then ends up on the right.
 >
 > This is a workflow preference rather than a general rule. When the retained piece is small and sits on the right, it should be supported and secured with a jig or clamp. Do not reach across the blade with the left hand. Only reposition the material after the blade has completely stopped.
+
+## 2026-07-28
+
+### 6-in-1 Universal Trim Router Jig
+
+Jig by **Tamar Hannah / 3x3 Custom**.
+
+A multifunctional base and jig for a trim router. It can be used for freehand routing, flush trimming, trimming edge banding, cutting grooves and mortises, and routing circles.
+
+<!--
+Image placeholder:
+./_images/2026-07-28-3x3-custom-universal-trim-router-jig.jpg
+-->
+
+[![6-in-1 Universal Trim Router Jig](./_images/20260728-3x3-custom-universal-trim-router-jig.webp ':size=480')](https://www.3x3custom.com/store/6-in-1-universal-trim-router-jig)
+
+- [Demonstration video on Facebook](https://www.facebook.com/share/r/1BzxER4kpn/)
+- [Product page at 3x3 Custom](https://www.3x3custom.com/store/6-in-1-universal-trim-router-jig)
+- [Build tutorial at 3x3 Custom](https://www.3x3custom.com/tutorials/ultimate-trim-router-jig)
+
+
+### Don't Make These 10 Table Saw Mistakes
+
+Video by **Thomas Custom Woodworks**.
+
+Ten common mistakes when using a table saw, with a focus on safer and more controlled operation.
+
+<!--
+Image placeholder:
+./_images/2026-07-28-youtube-thomas-custom-woodworks-table-saw-mistakes-bunX11a5OCk.jpg
+-->
+
+[![Don't Make These 10 Table Saw Mistakes](./_images/20260728-youtube-thomas-custom-woodworks-table-saw-mistakes-bunX11a5OCk-w320.jpg ':size=480')](https://www.youtube.com/watch?v=bunX11a5OCk)
+
+- [Watch on YouTube](https://www.youtube.com/watch?v=bunX11a5OCk)
 
 
 ## 2026-07-26
