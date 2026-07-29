@@ -5,6 +5,11 @@ Experiment with creating presentations using Markdown and Marp.
 * **Started:** 2026-07-28
 * **Status:** In progress
 
+## Background information / Tutorials
+
+https://dev.to/chris_ayers/unleash-your-creativity-with-marp-presentation-customization-1cpn
+
+
 ## Step 1 — First presentation
 
 Install the **Marp for VS Code** extension and create a first presentation.
@@ -81,3 +86,120 @@ Select **Export slide deck...**, choose **PDF** and save the result as:
 
 ```text
 steps/001-first-presentation/presentation.pdf
+```
+
+## Step 3 — Align content to the top
+
+By default, Marp places the slide content vertically in the middle.
+
+Add the following style to the front matter of `presentation.md`:
+
+```yaml
+---
+marp: true
+theme: default
+paginate: true
+style: |
+  section {
+    align-content: start;
+  }
+---
+```
+
+The content of each slide now starts at the top.
+
+### Result
+
+*To be completed after performing this step.*
+
+
+## Step 4 — Create a two-column slide
+
+Create a slide with three images and short captions on the left and text on the right.
+
+Add the following style to the front matter of `presentation.md`:
+
+```yaml
+style: |
+  section {
+    align-content: start;
+  }
+
+  .columns {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    gap: 30px;
+  }
+
+  .images {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .image-block {
+    text-align: center;
+  }
+
+  .image-block img {
+    width: 100%;
+    max-width: 320px;
+    max-height: 140px;
+    object-fit: contain;
+  }
+
+  .caption {
+    margin-top: 3px;
+    font-size: 15px;
+    line-height: 1.2;
+  }
+```
+
+Create the slide using:
+
+```html
+---
+
+# Two-column layout
+
+<div class="columns">
+
+<div class="images">
+
+<div class="image-block">
+<img src="./images/image-1.png" alt="First image">
+<div class="caption">Short explanation of the first image.</div>
+</div>
+
+<div class="image-block">
+<img src="./images/image-2.png" alt="Second image">
+<div class="caption">Short explanation of the second image.</div>
+</div>
+
+<div class="image-block">
+<img src="./images/image-3.png" alt="Third image">
+<div class="caption">Short explanation of the third image.</div>
+</div>
+
+</div>
+
+<div>
+
+## Text
+
+The text is displayed on the right side of the slide.
+
+- First observation
+- Second observation
+- Third observation
+
+</div>
+
+</div>
+```
+
+The image size can be adjusted using `max-width` and `max-height`.
+
+### Result
+
+*To be completed after performing this step.*
