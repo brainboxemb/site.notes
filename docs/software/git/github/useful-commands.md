@@ -83,3 +83,32 @@ git remote set-url origin https://github.com/username/site.2026-001-01-hugo-step
 ## Notes
 
 GitHub may redirect the old repository URL after a rename, but updating the local remote keeps the configuration clear and current.
+
+
+## Create a Tag Using the GitHub Web Interface
+
+GitHub does not provide a prominent standalone button for creating a tag in the normal repository view.
+
+A tag can be created through the release interface:
+
+1. Open the repository on GitHub.
+2. Open **Releases**.
+3. Select **Draft a new release**.
+4. Enter the required tag name.
+5. Select **Create new tag** and choose the target branch or commit.
+6. Publish the release.
+
+The release can be deleted afterwards while keeping the tag.
+
+When deleting the release, do not select the option to also delete the associated tag.
+
+This video demonstrates the process:
+
+[YouTube — Create a Git Tag Using the GitHub Web Interface](https://www.youtube.com/watch?v=ktGLZDy3oc0)
+
+This method can be useful for creating tags such as:
+
+```text
+daily/20260729
+milestone/first-working-build
+```
