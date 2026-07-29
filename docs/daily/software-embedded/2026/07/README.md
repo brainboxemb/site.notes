@@ -20,6 +20,6 @@ This keeps the output serialized and prevents application tasks from waiting unn
 
 Interrupt-driven or DMA-based transmission can improve the transport, but clear ownership and synchronization are still required.
 
-[![printf is a shared resource](./_images/20260729-beningo-embedded-group-printf-shared-resource.jpg 'width=320')](https://www.beningo.com/)
+[![printf is a shared resource](./_images/20260729-beningo-embedded-group-printf-shared-resource.jpg ':size=320')](https://www.beningo.com/)
 
 * [Beningo Embedded Group](https://www.beningo.com/)
