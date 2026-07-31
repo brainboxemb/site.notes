@@ -7,7 +7,11 @@ Experiment with creating presentations using Markdown and Marp.
 
 ## Background information / Tutorials
 
-https://dev.to/chris_ayers/unleash-your-creativity-with-marp-presentation-customization-1cpn
+- https://dev.to/chris_ayers/unleash-your-creativity-with-marp-presentation-customization-1cpn  
+Nice general introduction
+- https://miriam-mueller.com/marp-vscode-setup/  
+  Information on style sheet
+
 
 
 ## Step 1 — First presentation
@@ -199,6 +203,55 @@ The text is displayed on the right side of the slide.
 ```
 
 The image size can be adjusted using `max-width` and `max-height`.
+
+### Result
+
+*To be completed after performing this step.*
+
+
+## Step 6 — Create a reusable theme
+
+Move the presentation styling from the Markdown file to a separate reusable Marp theme.
+
+Create the theme file:
+
+```text
+themes/theme_basic.css
+```
+
+Register the theme in:
+
+```text
+.vscode/settings.json
+```
+
+```json
+{
+  "markdown.marp.themes": [
+    "./themes/theme_basic.css"
+  ]
+}
+```
+
+The CSS file starts with a theme name and imports the default Marp theme:
+
+```css
+/* @theme theme-basic */
+
+@import 'default';
+```
+
+Use the theme in the presentation front matter:
+
+```yaml
+---
+marp: true
+theme: theme-basic
+paginate: true
+---
+```
+
+The presentation styling can now be reused without including the CSS in every Markdown file.
 
 ### Result
 
