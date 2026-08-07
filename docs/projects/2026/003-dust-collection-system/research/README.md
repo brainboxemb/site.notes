@@ -6,7 +6,7 @@ The purpose of these pages is to document existing solutions before starting the
 
 ## Research Topics
 
-- [Festool CTL 15 E Extension Port](festool-ctl15e-extension-port/)
+- [Festool CT 15 E Extension Port](festool-ct15e-extension-port/)
 - Cyclone Separators *(planned)*
 - OsVAC Standard *(planned)*
 - Blast Gates *(planned)*
