@@ -1,4 +1,4 @@
-# Festool CTL 15 E External Port
+# Festool CT 15 E External Port
 
 This page investigates existing designs for adding an external dust collection port to a Festool CTL 15 E.
 
