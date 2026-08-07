@@ -1,5 +1,5 @@
 * Daily
-  * [Overview](daily/)
+  * [Overview](./)
   * [DIY & Fabrication](./diy-fab/)
     * [July 2026](./diy-fab/2026/07/)
   * [Software & Embedded Engineering](./software-embedded/)
