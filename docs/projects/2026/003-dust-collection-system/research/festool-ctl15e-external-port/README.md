@@ -85,3 +85,53 @@ Festool CTL 15 E internal connection
 - flexible segmented section  
 - OsVAC 40 connector  
 - external cyclone connection
+
+
+### Printables - Hose Adapter Festool CT 15 to Oneida Ultimate Dust Deputy
+
+**Source**
+
+https://www.printables.com/model/437760-hose-adapter-festool-ct-15-to-oneida-ultimate-dust/related
+
+**Image**
+
+![Festool CT 15 to Oneida Ultimate Dust Deputy Adapter](./_image/printables_festool-ct15_oneida-ultimate-dust-deputy-adapter_w320.webp)
+
+**Notes**
+
+This design connects a Festool CT 15 directly to an Oneida Ultimate Dust Deputy.
+
+The adapter is particularly interesting because it is specifically designed for the Festool CT 15, making it a useful reference for the Festool-side interface.
+
+For this project, the Oneida connection could potentially be replaced by an OsVAC 40 interface while retaining the Festool connection geometry.
+
+### Mullet Tools - Festool Connection Kits
+
+**Source (CT MIDI / MINI)**
+
+https://mullettools.com/products/festool-ct-midi-pipe-and-fittings-mullet-connection-kit
+
+**Image**
+
+![Festool CT MIDI and MINI Connection Kit](./_image/mullettools_festool-ct-midi-mini_connection-kit_w320.jpg ':size=320')
+
+**Source (CT 15 / CT 25)**
+
+https://mullettools.com/products/mullet-high-speed-cyclone-dust-collector-festool-ct15-e-adapter-assembly-kit
+
+**Image**
+
+![Festool CT 15 and CT 25 Connection Kit](./_image/mullettools_festool-ct15-ct25_connection-kit-1_w320.webp)
+![Festool CT 15 and CT 25 Connection Kit](./_image/mullettools_festool-ct15-ct25_connection-kit-2_w320.webp)
+**Notes**
+
+Mullet Tools uses a custom component to connect the Festool dust extractor to a standard PVC pipe system.
+
+The product descriptions differ between the two pages:
+
+- The CT MIDI / MINI page describes the component as an **ABS** part.
+- The CT 15 / CT 25 page describes the component as a **3D-printed custom adapter**.
+
+At this stage it is unclear whether these are manufactured differently or whether the descriptions simply differ between the two product pages.
+
+For this project, the custom Festool interface could potentially be redesigned to transition directly to an OsVAC 40 connection instead of the PVC system used by Mullet Tools.
