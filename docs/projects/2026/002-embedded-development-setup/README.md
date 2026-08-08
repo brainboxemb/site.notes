@@ -1,5 +1,19 @@
 # Embedded Development Setup
 
+> This page was created with the assistance of ChatGPT. Information and links should be verified.
+
+## Status
+
+| Property | Value |
+|----------|-------|
+| **Start Date** | 2026-07 |
+| **Last Update** | 2026-08-08 |
+| **Phase** | 🔍 Orientation |
+| **Activity** | 🟡 Idle |
+| **Current Activity** | Collecting and structuring embedded development notes and experiments |
+
+## Overview
+
 This project is about creating an automated build, deployment and testing environment for embedded software.
 
 The setup will consist of:

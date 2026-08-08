@@ -1,5 +1,18 @@
 # HUB75 LED Matrix Display
 
+> This page was created with the assistance of ChatGPT. Information and links should be verified.
+
+## Status
+
+| Property | Value |
+|----------|-------|
+| **Start Date** | 2026-07 |
+| **Last Update** | 2026-08-08 |
+| **Phase** | 📐 | Design |
+| **Activity** | 🟢 Active |
+| **Current Activity** | Refining the enclosure design and mounting details for the HUB75 display |
+
+## Overview
 This project is about building a display using HUB75 LED matrix modules.
 
 The page collects ideas, references and design options for the mechanical construction, electronics and software.
