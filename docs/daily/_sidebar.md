@@ -1,6 +1,6 @@
-* Daily
-  * [Overview](./)
-  * [DIY & Fabrication](./diy-fab/)
-    * [July 2026](./diy-fab/2026/07/)
-  * [Software & Embedded Engineering](./software-embedded/)
-    * [July 2026](./software-embedded/2026/07/)
+- Daily
+  - [Overview](./)
+  - [DIY & Fabrication](./diy-fab/)
+    - [July 2026](./diy-fab/2026/07/)
+  - [Software & Embedded Engineering](./software-embedded/)
+    - [July 2026](./software-embedded/2026/07/)
