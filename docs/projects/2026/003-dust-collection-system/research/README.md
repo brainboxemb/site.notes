@@ -7,6 +7,7 @@ The purpose of these pages is to document existing solutions before starting the
 ## Research Topics
 
 - [Festool CT 15 E External Port](festool-ct15e-external-port/)
+- [Grouding](grounding/)
 - Cyclone Separators *(planned)*
 - OsVAC Standard *(planned)*
 - Blast Gates *(planned)*
