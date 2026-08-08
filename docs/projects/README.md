@@ -1,6 +1,6 @@
 # Projects
 
-## List
+## Project List
 
 | Project | Phase | Activity | 
 |---------|-------|----------|
@@ -11,13 +11,13 @@
 
 
 
-# Project Status
+## Project Status
 
 This page defines the status information used throughout the projects.
 
 The status block at the top of each project provides a quick overview of the current state of the project.
 
-## Project Phase
+### Project Phase
 
 | Icon | Phase | Description |
 |------|-------|-------------|
@@ -29,7 +29,7 @@ The status block at the top of each project provides a quick overview of the cur
 | ✅ | Completed | The intended result has been completed. |
 | 📦 | Archived | The project is retained for reference, but no further development is planned. |
 
-## Activity Status
+### Activity Status
 
 The project phase and activity status are separate.
 
@@ -43,7 +43,7 @@ A project can, for example, still be in the **Design** phase while no work is cu
 | ⚫ | Inactive | No active development at the moment. |
 | 📦 | Archived | No further development is planned. |
 
-## Project Status Block
+### Project Status Block
 
 Each project should start with a status block similar to:
 
@@ -55,7 +55,7 @@ Each project should start with a status block similar to:
 | **Activity** | 🟢 Active |
 | **Current Activity** | Inventory of available parts and defining the first concept |
 
-## Dates
+### Dates
 
 Dates use the following format:
 
