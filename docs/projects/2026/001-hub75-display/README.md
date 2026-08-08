@@ -8,7 +8,7 @@
 |----------|-------|
 | **Start Date** | 2026-07 |
 | **Last Update** | 2026-08-08 |
-| **Phase** | 📐 | Design |
+| **Phase** | 📐 Design |
 | **Activity** | 🟢 Active |
 | **Current Activity** | Refining the enclosure design and mounting details for the HUB75 display |
 

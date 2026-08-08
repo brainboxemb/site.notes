@@ -8,7 +8,7 @@
 |----------|-------|
 | **Start Date** | 2026-08 |
 | **Last Update** | 2026-08-08 |
-| **Phase** | 🔍 | Orientation 
+| **Phase** | 🔍  Orientation 
 | **Activity** | 🟢 Active |
 | **Current Activity** | Researching a cyclone separator setup for the Festool CT 15 E and suitable osVAC 40 connections |
 
