@@ -1,6 +1,6 @@
 # Projects
 
-## Projects
+## List
 
 | Project | Phase | Activity | 
 |---------|-------|----------|
