@@ -4,10 +4,10 @@
 
 | Project | Phase | Activity | 
 |---------|-------|----------|
-| [HUB75 display](/projects/2026/001-hub75-display/) | 💡 | Concept Development  | 🟢 Active | 
-| [Embedded development setup](/projects/2026/002-embedded-development-setup/) | 💡 | Concept Development  | 🟢 Active | 
-| [Dust collection system](/projects/2026/003-dust-collection-system/) | 🔍 | Orientation | 🟢 Active 
-| [Scratchbuild workbench](/projects/2026/004-scratchbuild-workbench/) | 💡 | Concept Development | 🟢 Active 
+| [HUB75 display](/projects/2026/001-hub75-display/) | 💡  Concept Development  | 🟢 Active | 
+| [Embedded development setup](/projects/2026/002-embedded-development-setup/) | 💡  Concept Development  |  🟡  Idle |
+| [Dust collection system](/projects/2026/003-dust-collection-system/) | 🔍  Orientation | 🟢 Active |
+| [Scratchbuild workbench](/projects/2026/004-scratchbuild-workbench/) | 💡  Concept Development | 🟢 Active |
 
 
 
