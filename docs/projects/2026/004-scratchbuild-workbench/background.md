@@ -55,18 +55,18 @@ In addition, the purchase includes a significant number of galvanized scaffold t
 
 ### Desk
 
-![Desk overview](_images/marktplaats_desk_front.jpg)
+![Desk overview](_images/marktplaats_desk_front.jpg ':size=320')
 
-![Desk side view](_images/marktplaats_desk_side.jpg)
+![Desk side view](_images/marktplaats_desk_side.jpg ':size=320')
 
 ### Side Table
 
-![Side table](_images/marktplaats_table.jpg)
+![Side table](_images/marktplaats_table.jpg ':size=320')
 
-![Side table Underframe](_images/marktplaats_table_underframe.jpg)
+![Side table Underframe](_images/marktplaats_table_underframe.jpg ':size=320')
 
 ### Frame Details
 
-![Frame detail](_images/marktplaats_frame_detail.jpg)
+![Frame detail](_images/marktplaats_frame_detail.jpg ':size=320')
 
 
